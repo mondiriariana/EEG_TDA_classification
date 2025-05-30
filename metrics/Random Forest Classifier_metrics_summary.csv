@@ -1,0 +1,2 @@
+model,best_params,f1_score,accuracy,precision,recall
+Random Forest Classifier,"{'max_depth': None, 'min_samples_split': 2, 'n_estimators': 100}",0.9194666971505835,0.9143478260869565,0.9402273939717258,0.9143478260869565
