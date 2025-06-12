@@ -1,2 +1,0 @@
-model,best_params,f1_score,accuracy,precision,recall
-KNN Classifier,"{'n_neighbors': 5, 'weights': 'distance'}",0.9186700378901528,0.9134782608695652,0.9397650182542316,0.9134782608695652
