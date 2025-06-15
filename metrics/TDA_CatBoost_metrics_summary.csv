@@ -1,0 +1,2 @@
+model,best_params,f1_score,accuracy,precision,recall
+TDA_CatBoost,"{'depth': 6, 'iterations': 100, 'learning_rate': 0.1}",0.47991067005983973,0.48484848484848486,0.4936762583821408,0.48484848484848486
